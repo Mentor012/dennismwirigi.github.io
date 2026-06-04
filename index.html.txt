@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dennis Mwirigi Portfolio</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin:0;
+            padding:0;
+            background:#f4f4f4;
+        }
+
+        header{
+            background:#0d6efd;
+            color:white;
+            text-align:center;
+            padding:40px;
+        }
+
+        section{
+            max-width:900px;
+            margin:auto;
+            background:white;
+            padding:20px;
+            margin-top:20px;
+        }
+
+        h2{
+            color:#0d6efd;
+        }
+
+        footer{
+            text-align:center;
+            padding:20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dennis Mwirigi (Mentor)</h1>
+    <p>Computer Science Student | Data Analyst | Networking Specialist | Founder of Mentor Tech</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am a passionate technology enthusiast with skills in
+        networking, data analysis, web technologies, and ICT integration.
+        I enjoy solving real-world problems through technology.
+    </p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Python Programming</li>
+        <li>Networking</li>
+        <li>SPSS & STATA</li>
+        <li>Data Analysis</li>
+        <li>Web Development</li>
+        <li>Graphic Design</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li>Economic Data Analysis using SPSS and STATA</li>
+        <li>ICT Integrated Teaching Resources</li>
+        <li>Networking Projects</li>
+        <li>Mentor Tech Graphics and Branding</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: mwirigidennis3486@gmail.com</p>
+    <p>Phone: 0742021408</p>
+</section>
+
+<footer>
+    © 2026 Dennis Mwirigi | Mentor Tech
+</footer>
+
+</body>
+</html>
